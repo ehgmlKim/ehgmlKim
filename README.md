@@ -26,8 +26,18 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white" />
 
 ### 🌈SNS🌈
+<!--노션-->
 <a href="https://www.notion.so/ehgmlkim/481ecc28088f4d2bb7eb165ad8bf607c" target="_blank">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+</a>
+<!--벨로그-->
+<a href="https://velog.io/@greene">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+</a>
+<!--메일-->
+<a href="dohee930@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+</a>
 
 <br />
   <img src="https://github-readme-stats.vercel.app/api?username=ehgmlKim&layout=compact">
