@@ -26,8 +26,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white" />
 
 ### 🌈SNS🌈
-<a href="https://www.notion.so/ehgmlkim/481ecc28088f4d2bb7eb165ad8bf607c"
-  target="_blank>
+<a href="https://www.notion.so/ehgmlkim/481ecc28088f4d2bb7eb165ad8bf607c" target="_blank>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 
 <br />
