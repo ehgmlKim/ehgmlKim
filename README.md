@@ -43,6 +43,7 @@
 <!-- 백준 티어 -->
 
 ### 💪Problem Solving💪
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Apache Python&logoColor=white" />
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimdh930)](https://solved.ac/kimdh930)
