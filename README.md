@@ -57,6 +57,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ehgmlKim&layout=compact">
 <br/>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 </div>
 
 <!--
@@ -73,3 +75,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
