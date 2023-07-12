@@ -39,11 +39,15 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 </a>
 
+<!-- 깃허브 및 기타 정보-->
 <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ehgmlKim&layout=compact">
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=ehgmlKim&layout=compact">
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ehgmlKim&layout=compact">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ehgmlKim&layout=compact">
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimdh930)](https://solved.ac/kimdh930)
 
 
 </div>
